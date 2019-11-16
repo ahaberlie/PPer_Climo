@@ -2,9 +2,7 @@
 .DS_Store
 *.swp
 .idea/
-*.csv
 *.pyc
-*.png
 *.pkl
 *.npz
 *.npy
@@ -34,6 +32,7 @@
 *.sbx
 *.tar.gz
 *.nc
+!nam212.nc
 *.shp
 *.cpg
 *.dbf
